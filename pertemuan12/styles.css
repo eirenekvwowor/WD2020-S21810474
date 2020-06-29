@@ -1,0 +1,8 @@
+span {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+ } 
+ .test{
+     display: inline;
+ }
