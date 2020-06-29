@@ -1,0 +1,21 @@
+.img1{
+    display: block;
+    background-color: rgb(238, 238, 115);
+    padding: 20px;
+    border: 10px solid red;
+    margin: 20px 20px 0px 20px;
+}
+.img2{
+    display: block;
+    background-color: rgb(238, 238, 115);
+    padding: 20px;
+    border: 10px solid red;
+    margin: 0px 0px 0px 199px
+}
+.img3{
+    display: block;
+    background-color: rgb(238, 238, 115);
+    padding: 20px;
+    border: 10px solid red;
+    margin: 0px 0px 0px 378px
+}
